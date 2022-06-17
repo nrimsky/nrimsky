@@ -1,2 +1,5 @@
-- 👋 Hi, I’m Nina, a Biomedical Engineering student @ Imperial
-- 💻 Mainly using Python, Swift, Kotlin, Java, TypeScript but like learning new programming languages
+Hi, I'm Nina! I like writing code. Some interests:
+
+- Native iOS dev / Swift
+- Machine learning research applied to AI alignment or healthcare problems
+- Learning new programming languages, business domains and tech stacks
