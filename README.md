@@ -1,1 +1,1 @@
-Software engineer interested in AI safety
+https://ninapanickssery.com
